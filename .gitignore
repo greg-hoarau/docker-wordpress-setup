@@ -1,7 +1,3 @@
-# Plugins & Themes
-/plugins/*
-/themes/*
-
 # Ini Files
 *.ini
 !*.ini-example
